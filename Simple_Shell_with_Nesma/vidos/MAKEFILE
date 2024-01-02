@@ -1,0 +1,15 @@
+# Define variables
+CC = gcc
+CFLAGS = -Wall
+SRCS = $(wildcard *.c)
+
+# Define targets and dependencies
+all: shell.out
+    @echo "Shell Project"
+
+shell.out: $(SRCS)
+    $(CC) $(CFLAGS) $(SRCS) -o shell.out
+
+clean:
+    rm -f shell.out 
+

@@ -1,0 +1,19 @@
+while ==> 1 
+stdin ==>ls -l 
+==>getline
+C code ==> "ls -l"
+
+strtok
+
+>> "ls", "-l", NULL
+
+put path value
+>>path+ls >>> "/usr/bin/ls"
+
+
+
+// char *const argv[] = {"/usr/bin/ls", "-l", "/media/omar/Hard Disk/ALX_folder", NULL};
+execve(argv[0], argv, NULL);
+
+
+/usr/bin/ls -l /media/omar/Hard Disk/ALX_folder
