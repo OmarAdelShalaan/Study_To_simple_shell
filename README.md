@@ -1,6 +1,6 @@
 # simple_shell
 # ALX SE Foundations Project  C - Simple Shell
-# by: 'Omar Adel Shalaan' and 'Nesma Abdelazim'
+# by: 'Omar' 'Adel' 'Shalaan' and 'Nesma Abdelazim'
 
 List of allowed functions and system calls
 access (man 2 access)
