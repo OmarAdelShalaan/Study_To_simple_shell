@@ -1,10 +1,10 @@
 # Simple_Shell
 # ALX SE Foundations Project  C - Simple Shell
-# by: `**Omar Adel Shalaan**` and 'Nesma Abdelazim'
-<span style="background-color: yellow;">Omar Adel Shalaan</span>
+# by: `Omar Adel Shalaan` and `Nesma Abdelazim`
+[Omar Adel Shalaan linkedin](https://www.linkedin.com/in/omar-adel-shalaan/) and [Nesma Abdelazim](https://www.linkedin.com/in/nesma-abdelazim/)
 
-https://www.linkedin.com/in/nesma-abdelazim/
-# List of allowed functions and system calls
+
+## List of allowed functions and system calls
 - access (man 2 access)
 - chdir (man 2 chdir)
 - close (man 2 close)
@@ -38,8 +38,8 @@ https://www.linkedin.com/in/nesma-abdelazim/
 - write (man 2 write)
 
 # Compilation
-## Your shell will be compiled this way:
-'gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh'
+### Your shell will be compiled this way:
+`gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
 
 # Shell Handle 
 - ### The command lines are made only of one word.
