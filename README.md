@@ -47,7 +47,7 @@ https://www.linkedin.com/in/nesma-abdelazim/
 - ### Handle the PATH
 - ### Handle exit
 - ### Handle env built-in, that prints the current environment
-
+- ### Handle Free memory
 
 
 
