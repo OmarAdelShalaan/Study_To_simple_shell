@@ -50,6 +50,8 @@
 - ### Handle exit
 - ### Handle env built-in, that prints the current environment
 - ### Handle Free memory
+- ### Handle cd, cd -, cd [DIRECTORY]
+- ### Handle variables replacement
 
 
 
