@@ -5,7 +5,7 @@
 
 
 ## List of allowed functions and system calls
-- access (man 2 access)                  -- write (man 2 write)
+- access (man 2 access)                  | write (man 2 write)
 - chdir (man 2 chdir)                    - wait4 (man 2 wait4)
 - close (man 2 close)
 - closedir (man 3 closedir)
