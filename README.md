@@ -64,10 +64,10 @@ valgrind ./a.out
 
 ## Resources
 #### Read or watch:
-[Everything you need to know to start coding your own shell](https://intranet.alxswe.com/concepts/64)
-[Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
-[Thompson shell](https://intranet.alxswe.com/rltoken/7LJOp2qP7qHUcsOK2-F3qA)
-[Ken Thompson](https://intranet.alxswe.com/rltoken/wTSu31ZP1f7fFTJFgRQC7w)
+- [Everything you need to know to start coding your own shell](https://intranet.alxswe.com/concepts/64)
+- [Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
+- [Thompson shell](https://intranet.alxswe.com/rltoken/7LJOp2qP7qHUcsOK2-F3qA)
+- [Ken Thompson](https://intranet.alxswe.com/rltoken/wTSu31ZP1f7fFTJFgRQC7w)
 
 ## General
 1. Who designed and implemented the original Unix operating system
