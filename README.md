@@ -1,6 +1,6 @@
 # Simple_Shell
 # ALX SE Foundations Project  C - Simple Shell
-# by: `'**Omar Adel Shalaan**'` and 'Nesma Abdelazim'
+# by: `**Omar Adel Shalaan**` and 'Nesma Abdelazim'
 <span style="background-color: yellow;">Omar Adel Shalaan</span>
 
 https://www.linkedin.com/in/nesma-abdelazim/
