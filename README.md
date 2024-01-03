@@ -69,7 +69,7 @@ valgrind ./a.out
 [Thompson shell](https://intranet.alxswe.com/rltoken/7LJOp2qP7qHUcsOK2-F3qA)
 [Ken Thompson](https://intranet.alxswe.com/rltoken/wTSu31ZP1f7fFTJFgRQC7w)
 
-General
+## General
 1. Who designed and implemented the original Unix operating system
 2. Who wrote the first version of the UNIX shell
 3. Who invented the B programming language (the direct predecessor to the C programming language)
@@ -84,7 +84,8 @@ General
 12. How to execute another program with the execve system call
 13. How to suspend the execution of a process until one of its children terminates
 14. What is EOF / “end-of-file”?
-From chatGPT
+
+## From chatGPT
 1. **Designers of Original Unix Operating System:** The original Unix operating system was primarily designed and implemented by Ken Thompson, Dennis Ritchie, and a team at Bell Labs in the late 1960s.
 
 2. **Writer of the First Version of UNIX Shell:** Ken Thompson wrote the first version of the UNIX shell, known as the Thompson shell (sh).
