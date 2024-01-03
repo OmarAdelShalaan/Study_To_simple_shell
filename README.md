@@ -56,7 +56,7 @@ https://www.linkedin.com/in/nesma-abdelazim/
 
 
 
-
+valgrind ./a.out
 
 
 
