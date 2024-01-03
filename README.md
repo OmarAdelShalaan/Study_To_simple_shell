@@ -1,7 +1,7 @@
 # Simple_Shell
 # ALX SE Foundations Project  C - Simple Shell
 # by: '**Omar Adel Shalaan**' and 'Nesma Abdelazim'
-
+https://www.linkedin.com/in/nesma-abdelazim/
 # List of allowed functions and system calls
 - access (man 2 access)
 - chdir (man 2 chdir)
