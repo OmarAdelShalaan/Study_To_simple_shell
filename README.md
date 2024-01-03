@@ -59,7 +59,7 @@
 
 
 
-
+## Memcheck, a memory error detector
 ## `valgrind -s --leak-check=full --show-leak-kinds=all ./hsh`
 
 
