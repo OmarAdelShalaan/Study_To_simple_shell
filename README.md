@@ -39,7 +39,7 @@
 
 # Compilation
 ### Your shell will be compiled this way:
-`gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
+### `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
 
 # Shell Handle 
 - ### The command lines are made only of one word.
