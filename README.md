@@ -1,4 +1,4 @@
-# Simple_Shell
+# Simple Shell Project 
 # ALX SE Foundations Project  C - Simple Shell
 # by: `Omar Adel Shalaan` and `Nesma Abdelazim`
 [Omar Adel Shalaan linkedin](https://www.linkedin.com/in/omar-adel-shalaan/) and [Nesma Abdelazim](https://www.linkedin.com/in/nesma-abdelazim/)
