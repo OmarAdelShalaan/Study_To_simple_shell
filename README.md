@@ -60,7 +60,8 @@
 
 
 
-valgrind ./a.out
+## `valgrind -s --leak-check=full --show-leak-kinds=all ./hsh`
+
 
 
 
